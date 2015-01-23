@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
+<editor-preferences>
+    <entry javaType="java.lang.String" name="blankLinesAfterClass" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterFunction" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesAfterOpenPHPTag" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeClosePHPTag" xml:space="preserve">
+        <value><![CDATA[1]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeNamespace" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="blankLinesBeforeUse" xml:space="preserve">
+        <value><![CDATA[0]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="continuationIndentSize" xml:space="preserve">
+        <value><![CDATA[4]]></value>
+    </entry>
+    <entry javaType="java.lang.String" name="methodDeclBracePlacement" xml:space="preserve">
+        <value><![CDATA[NEW_LINE]]></value>
+    </entry>
+    <entry javaType="java.lang.Integer" name="tab-size" xml:space="preserve">
+        <value><![CDATA[4]]></value>
+    </entry>
+</editor-preferences>
