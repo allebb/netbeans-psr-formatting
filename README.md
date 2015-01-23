@@ -20,7 +20,13 @@ I am happy to provide support via. my personal email address, so if you need a h
 
 ## Installation
 
-TBC
+* Download the [latest release](http://lk2.in/cQ) to your machine.
+* Open up the NetBeans IDE on your computer
+* From the top menu, click on ```Tools``` and then from the menu that appears click ```Options```
+* When the **Options** window appears click on the ```Import``` button at the bottom left.
+* When the **Import** window appears click on the ```Browse``` button and select the downloaded zip archive that you downloaded in the first step.
+* Under the ```Select options to import:```, check the ```All``` check box and then click ```Ok``` and then ```Apply```.
+* You should then be prompted to restart the IDE, restart and enjoy your new auto-formatting skills ;)
 
 ## Preparing the source code for 'import'
 
