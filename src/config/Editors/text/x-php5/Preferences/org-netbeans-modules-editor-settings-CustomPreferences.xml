@@ -2,7 +2,7 @@
 <!DOCTYPE editor-preferences PUBLIC "-//NetBeans//DTD Editor Preferences 1.0//EN" "http://www.netbeans.org/dtds/EditorPreferences-1_0.dtd">
 <editor-preferences>
     <entry javaType="java.lang.String" name="blankLinesAfterClass" xml:space="preserve">
-        <value><![CDATA[0]]></value>
+        <value><![CDATA[1]]></value>
     </entry>
     <entry javaType="java.lang.String" name="blankLinesAfterFunction" xml:space="preserve">
         <value><![CDATA[0]]></value>
