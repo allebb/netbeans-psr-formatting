@@ -1,4 +1,4 @@
-# PSR1/PSR2 auto-formatting for NetBeans IDE
+# PSR auto-formatting for NetBeans
 
 This repository provides source code auto-formatting settings for PHP [PSR1](http://www.php-fig.org/psr/psr-1/) and [PSR2](http://www.php-fig.org/psr/psr-2/) standards.
 
