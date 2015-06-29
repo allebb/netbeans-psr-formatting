@@ -4,7 +4,7 @@ This repository provides source code auto-formatting settings for PHP [PSR1](htt
 
 Although [NetBeans](https://netbeans.org/) does not provide automatic formatting support for all of the PSR1 and PSR2 'rules' (eg. refactoring class and method name case) I have done my best to implement as much as possible.
 
-The result of using this configuration is, once imported you can then use the ```Source > Format``` function (``ALT``+``SHIFT``+``F`` on Windows and Linux) or (``ALT``+``F`` on Mac) in NetBeans the PHP code will automatically be formatted to match PSR1/PSR2 syntax format.
+The result of using this configuration is, once imported you can then use the ```Source > Format``` function (``ALT``+``SHIFT``+``F`` on Windows and Linux) or (``CTRL``+``SHIFT``+``F`` on Mac) in NetBeans the PHP code will automatically be formatted to match PSR1/PSR2 syntax format.
 
 ## Requirements
 
