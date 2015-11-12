@@ -8,7 +8,7 @@ The result of using this configuration is, once imported you can then use the ``
 
 ## Requirements
 
-* [NetBeans](https://netbeans.org/) (Tested and developed on v8.0.2 but should work fine on other versions too!)
+* [NetBeans](https://netbeans.org/) (Tested and developed on v8.1 but should work fine on other versions too!)
 
 ## License
 
