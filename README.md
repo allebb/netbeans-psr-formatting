@@ -20,7 +20,7 @@ I am happy to provide support via. my personal email address, so if you need a h
 
 ## Installation
 
-* Download the [latest release](http://lk2.in/cQ) to your machine.
+* Download the [latest release](http://lk2.in/et) to your machine.
 * Open up the NetBeans IDE on your computer
 * From the top menu, click on ```Tools``` and then from the menu that appears click ```Options```
 * When the **Options** window appears click on the ```Import``` button at the bottom left.
