@@ -20,7 +20,7 @@ I am happy to provide support via. my personal email address, so if you need a h
 
 ## Installation
 
-* Download the [latest release](https://github.com/bobsta63/netbeans-psr-formatting/releases) to your machine (Specifically choose the __ZIP__ version).
+* Download the [latest release](https://github.com/bobsta63/netbeans-psr-formatting/releases) (specifically the __ZIP__ version) to your machine.
 * Open up the NetBeans IDE on your computer
 * From the top menu, click on ```Tools``` and then from the menu that appears click ```Options```
 * When the **Options** window appears click on the ```Import``` button at the bottom left.
