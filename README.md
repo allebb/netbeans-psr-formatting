@@ -16,7 +16,7 @@ All things have a license I guess, so keeping it plain and simple, these files a
 
 ## Support
 
-I am happy to provide support via. my personal email address, so if you need a hand or want to give me some feedback feel free to drop me an email at: [ballen@bobbyallen.me](mailto:ballen@bobbyallen.me).
+I am happy to provide support via. my personal email address, so if you need a hand or want to give me some feedback please drop me an email at: [ballen@bobbyallen.me](mailto:ballen@bobbyallen.me).
 
 ## Installation
 
