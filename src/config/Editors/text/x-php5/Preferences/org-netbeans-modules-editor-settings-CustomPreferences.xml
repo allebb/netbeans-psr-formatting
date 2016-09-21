@@ -14,10 +14,10 @@
         <value><![CDATA[1]]></value>
     </entry>
     <entry javaType="java.lang.String" name="blankLinesBeforeNamespace" xml:space="preserve">
-        <value><![CDATA[1]]></value>
+        <value><![CDATA[0]]></value>
     </entry>
     <entry javaType="java.lang.String" name="blankLinesBeforeUse" xml:space="preserve">
-        <value><![CDATA[0]]></value>
+        <value><![CDATA[1]]></value>
     </entry>
     <entry javaType="java.lang.String" name="classDeclBracePlacement" xml:space="preserve">
         <value><![CDATA[NEW_LINE]]></value>
