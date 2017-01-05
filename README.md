@@ -31,7 +31,7 @@ I am happy to provide support via. my personal email address, so if you need a h
 ## Using NetBeans 8.1 (and lower)?
 
 There is an issue in Netbeans versions 8.1 (and lower) in which the ``namespace`` new-line configuration does not work (a bug) of which has since been 
-fixed in Netbeans 8.2. As a workaround however, [release v1.0.2](https://github.com/allebb/netbeans-psr-formatting/releases/tag/v1.0.2) uses a single blank line to split the ``namespace`` from the first line of which is recommended to use.
+fixed in Netbeans 8.2. As a workaround however, [release v1.0.1](https://github.com/allebb/netbeans-psr-formatting/releases/tag/v1.0.1) uses a single blank line to split the ``namespace`` from the first line of which is recommended to use.
 
 ## Preparing the source code for 'import'
 
